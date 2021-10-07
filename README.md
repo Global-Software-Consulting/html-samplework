@@ -1,5 +1,6 @@
-![gsoftlogo](https://user-images.githubusercontent.com/78399841/136393956-7b2f0522-3b3b-4ae8-830b-5724acca1bba.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78399841/136393956-7b2f0522-3b3b-4ae8-830b-5724acca1bba.png" />
+</p>
 
 # html-samplework Live Links
 [SBS](http://sbs.gsoftconsulting.com)
