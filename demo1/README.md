@@ -1,3 +1,6 @@
+# Picture/Demo
+
+
 # Introduction
 
 `Skating is a static demo page that deals with skating related activities.`
