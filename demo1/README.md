@@ -1,6 +1,7 @@
 # Picture/Demo
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/78399841/136374733-efdab185-5244-4f6e-b500-9b30d6485e3b.gif)
 
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/78399841/136374789-7d83ebf0-080e-439c-a8cf-d71074d97679.gif)
 # Introduction
 
 `Skating is a static demo page that deals with skating related activities.`
