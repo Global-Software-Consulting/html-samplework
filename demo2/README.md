@@ -1,3 +1,9 @@
+# Picture/Demo
+
+![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/78399841/136374926-8604ced7-57d1-40df-a6fa-2c37425a4217.gif)
+![ezgif com-video-to-gif-4](https://user-images.githubusercontent.com/78399841/136374968-53494829-cbd6-45f1-b6de-e230aeac9b98.gif)
+
+
 # Introduction
 
 `Ziofy is a static demo page that deals with marketing related activities.`
