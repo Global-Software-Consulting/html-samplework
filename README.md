@@ -8,3 +8,7 @@
 * CSS3 
 * SCSS
 * Bootstrap5
+
+## Developer
+[Global Soft Consulting](http:gsoftconsulting.com)
+
